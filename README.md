@@ -1,6 +1,6 @@
 <img src="./Portada.jpg.png" alt="Jhonn Diaz" width="100%">
 
-# Sobre mi:
+# Acerca de mí:
 
 Hola 👋, soy un desarrollador web Full Stack con orientación al Front-end, tengo la capacidad de realizar proyectos completos, me motiva seguir aprendiendo nuevas habilidades día a día, en busca de nuevas tendencias y mejores prácticas en el desarrollo web. Gracias a mi enfoque tanto en el Front-end como en el Back-end, puedo ofrecer una perspectiva completa y equilibrada en el desarrollo de aplicaciones web. Esto me permite comprender y abordar los desafíos desde diferentes ángulos, asegurando la coherencia, eficiencia en todo el proyecto y resolución de problemas. 🚀
 <hr/>
